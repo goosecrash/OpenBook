@@ -2,12 +2,13 @@
 # OpenBook Project
 
 ## Introduction
-The OpenBook project is a Flask-based web application designed to manage and display book and author information from a SQLite database. It's an intuitive platform for book enthusiasts and researchers alike.
+The OpenBook Project is a creative-works verifaction blockchain, it utilizes blockchain technogly that intergrates a voting system to verify works of fiction, non-fiction, etc as create by human authors
 
 ## Features
 - Display book and author data from a SQLite database.
 - Web interface for easy navigation and data viewing.
 - Routes for accessing different types of data (e.g., books, authors).
+- Unique author and book signatures
 
 ## Installation
 
