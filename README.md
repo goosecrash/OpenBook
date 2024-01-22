@@ -19,11 +19,11 @@ The OpenBook project is a Flask-based web application designed to manage and dis
 ### Setting Up
 1. Clone the repository:
    ```
-   git clone [repository-url]
+   git clone https://github.com/goosecrash/OpenBook
    ```
 2. Navigate to the project directory:
    ```
-   cd [project-directory]
+   cd OpenBook
    ```
 3. Install the required packages:
    ```
